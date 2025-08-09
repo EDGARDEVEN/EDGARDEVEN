@@ -40,13 +40,14 @@ Welcome to my digital lab - where **code meets cybersecurity**, and **ideas turn
 
 ### 📌 Featured Projects
 
-#### 🧠 [RiskTok](https://github.com/EDGARDEVEN/risktok)
-> A Gen Z-inspired social media scanner that detects personal risks in selfies and captions using AI & OSINT tools.
+#### 🧠 [Policy Sentiment Analyzer Engine](https://github.com/EDGARDEVEN/policy-sentiment-tracker)
+> A Python-based tool for scraping Kenyan news headlines, extracting trending keywords, and performing sentiment analysis to track public sentiment on current events and policy matters.
 
-- 🔍 Scrubs geotags & sensitive EXIF data
-- 🎯 Rates social media posts for oversharing risk
-- 🛠 Built with Vite + React + Supabase
-- STILL IN DEVELOPMENT
+- 🔍 Real-time scraping from major Kenyan news sites
+- 🎯 Keyword extraction from headlines using NLTK
+- 🛠 Sentiment analysis using VADER (Positive, Negative, Neutral)
+- ✅ Dashboard visualization of sentiment distribution
+- [Policy Sentiment Analyzer Link](https://policy-sentiment-tracker.vercel.app/)
 
 #### 🛡️ [DevSecure](https://github.com/EDGARDEVEN/DEVSECURE)
 > A Cybersecurity-as-a-Service platform focused on SME supply chain security, compliance, and third-party risk.
@@ -94,5 +95,5 @@ Welcome to my digital lab - where **code meets cybersecurity**, and **ideas turn
 
 ---
 
-> “Security isn’t a product, it’s a process — and I build tools that make that process smarter.”
+> “Security isn’t a product, it’s a process and I build tools that make that process smarter.”
 
